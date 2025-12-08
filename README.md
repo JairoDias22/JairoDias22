@@ -5,6 +5,7 @@
 
 **Me chamo Jairo, tenho 25 anos e sou natural de Bela Vista, no Maranhão. Gosto muito de programação e tecnologia, e estou sempre buscando aprender coisas novas, e pessoalmente tenho interesse em programação web. Já fiz curso técnico em Informática pelo SENAC e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão(UEMA).**
 
+---
 
 # Contatos
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jairodias321@gmail.com)
@@ -12,7 +13,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/jairo_dias21/)
 
 
-<h3 align="left">My Stack ~</h3>
 
 ---
 
