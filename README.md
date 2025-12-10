@@ -1,5 +1,4 @@
 # 👨🏻‍💻 Jairo Dias
-![Frieren(1)](https://github.com/user-attachments/assets/507228a4-416c-4e54-aed2-a1deb8544ce7)
 
 **`Desenvolvedor Web`**
 
