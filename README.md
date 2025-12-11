@@ -1,9 +1,8 @@
-# 👨🏻‍💻 Jairo Dias
-<img align="right" alt="" height="190px" src="Frieren(1).gif">
 
-💻
-**`Desenvolvedor Web`**
 
+<img align="center" alt="" height="190px" src="Jairo-dias.gif">
+
+<img align="right" alt="" height="150px" src="Frieren(1).gif">
 
 
 **Me chamo Jairo, tenho 25 anos e sou natural de Bela Vista, no Maranhão. Gosto muito de programação e tecnologia, e estou sempre buscando aprender coisas novas, e pessoalmente tenho interesse em programação web. Já fiz curso técnico em Informática para internet pelo SENAC e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão (UEMA). Estou em constante evolução e sempre procurando novas oportunidades para crescer na área de tecnologia.**
