@@ -123,10 +123,13 @@
       <td align="center" width="300px">
         <a href="https://github.com/JairoDias22/Projeto-agenda">
           <img src="https://img.shields.io/badge/-Projeto%20Agenda-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7"/>
-          <br><br>
+          </a>
+          <br>
+          <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/Projeto-agenda.gif" width="260" />
+          <a href="https://github.com/JairoDias22/Projeto-agenda">
           <strong>📒 Agenda Eletrônica</strong>
           <br>
-          <sub>PHP • MySQL • CRUD</sub>
+          <sub> PHP • HTML • CSS • MySQL </sub>
         </a>
       </td>
 
@@ -139,7 +142,7 @@
         <a href="https://github.com/JairoDias22/Projeto_Blog">
           <strong>📝 Mini Blog</strong>
           <br>
-          <sub>PHP • HTML • CSS</sub>
+          <sub> PHP • HTML • CSS</sub>
           </a>
       </td>
   </table>
