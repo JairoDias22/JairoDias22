@@ -127,6 +127,7 @@
           <br>
           <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/Projeto-agenda.gif" width="260" height="130" />
           <a href="https://github.com/JairoDias22/Projeto-agenda">
+         <p> Clique aqui para ir pro repositório </p>
           <strong>📒 Agenda Eletrônica</strong>
           <br>
           <sub> PHP • HTML • CSS • MySQL </sub>
@@ -140,6 +141,7 @@
         </a>
          <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/Projeto-blog.gif" width="260"  height="130" />
         <a href="https://github.com/JairoDias22/Projeto_Blog">
+          <p> Clique aqui para ir pro repositório </p>
           <strong>📝 Mini Blog</strong>
           <br>
           <sub> PHP • HTML • CSS</sub>
