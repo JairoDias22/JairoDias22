@@ -166,8 +166,6 @@
 <br/>
 <br/>
 
-<img align="right" alt="" height="160px" src="Projeto-blog.gif">
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jairoDias22/jairoDias22/output/github-contribution-grid-snake-dark.svg">
