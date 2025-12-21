@@ -125,7 +125,7 @@
           <img src="https://img.shields.io/badge/-Projeto%20Agenda-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7"/>
           </a>
           <br>
-          <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/Projeto-agenda.gif" width="260" />
+          <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/Projeto-agenda.gif" width="260" height="130" />
           <a href="https://github.com/JairoDias22/Projeto-agenda">
           <strong>📒 Agenda Eletrônica</strong>
           <br>
@@ -138,7 +138,7 @@
           <img src="https://img.shields.io/badge/-Mini%20Blog-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7"/>
           <br>
         </a>
-         <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/Projeto-blog.gif" width="260" />
+         <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/Projeto-blog.gif" width="260"  height="130" />
         <a href="https://github.com/JairoDias22/Projeto_Blog">
           <strong>📝 Mini Blog</strong>
           <br>
