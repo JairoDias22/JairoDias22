@@ -133,11 +133,14 @@
   <td align="center" width="300px">
         <a href="https://github.com/JairoDias22/Projeto_Blog">
           <img src="https://img.shields.io/badge/-Mini%20Blog-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7"/>
-          <br><br>
+          <br>
+        </a>
+         <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/Projeto-blog.gif" width="260" />
+        <a href="https://github.com/JairoDias22/Projeto_Blog">
           <strong>📝 Mini Blog</strong>
           <br>
           <sub>PHP • HTML • CSS</sub>
-        </a>
+          </a>
       </td>
   </table>
 </div>
@@ -163,6 +166,7 @@
 <br/>
 <br/>
 
+<img align="right" alt="" height="160px" src="Projeto-blog.gif">
 
 
 <picture align="center">
