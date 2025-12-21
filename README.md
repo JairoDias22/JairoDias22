@@ -114,6 +114,36 @@
 
 ---
 
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300px">
+        <a href="https://github.com/JairoDias22/Projeto-agenda">
+          <img src="https://img.shields.io/badge/-Projeto%20Agenda-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7"/>
+          <br><br>
+          <strong>📒 Agenda Eletrônica</strong>
+          <br>
+          <sub>PHP • MySQL • CRUD</sub>
+        </a>
+      </td>
+
+  <td align="center" width="300px">
+        <a href="https://github.com/JairoDias22/Projeto_Blog">
+          <img src="https://img.shields.io/badge/-Mini%20Blog-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7"/>
+          <br><br>
+          <strong>📝 Mini Blog</strong>
+          <br>
+          <sub>PHP • HTML • CSS</sub>
+        </a>
+      </td>
+  </table>
+</div>
+
+---
+
 ### 📊 Estatísticas
 <p>
   <img 
