@@ -171,6 +171,10 @@
 <br/>
 <br/>
 
+## 📊 Atividade no GitHub
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JairoDias22&bg_color=282a36&color=f8f8f2&line=bd93f9&point=bd93f9&area=true&hide_border=true"/>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jairoDias22/jairoDias22/output/github-contribution-grid-snake-dark.svg">
