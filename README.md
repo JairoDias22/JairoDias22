@@ -21,6 +21,22 @@
 ---
 
 
+## 💡 O que eu sei fazer
+- Desenvolvimento de aplicações web com PHP
+- Implementação de CRUD com MySQL
+- Autenticação de usuários
+- Estruturação de projetos web
+- Versionamento de código com Git e GitHub
+
+---
+
+## 📚 Atualmente aprendendo
+- Padrões de projeto
+- Deploy e hospedagem de aplicações web
+- Java
+- React
+---
+
 # Contatos
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jairodias321@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jairo-dias-b80b55319/)
@@ -31,6 +47,7 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
 
 <img 
     align="left" 
@@ -66,6 +83,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
+
 <img 
     align="left" 
     alt="PHP" 
@@ -118,7 +137,10 @@
 
 ---
 
+## 🎯 Objetivo
+Atuar como **estagiário ou desenvolvedor júnior na área de desenvolvimento web**
 
+---
 ## 🚀 Projetos em Destaque
 
 <div align="center">
@@ -187,3 +209,24 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jairoDias22/jairoDias22/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jairoDias22/jairoDias22/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+---
+
+<div align="center">
+
+### 🚀 Sempre aberto a aprender, colaborar e encarar novos desafios.
+
+</div>
+
+<p align="center">
+  <img src="pikachu.gif" alt="GIF" width="80">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=2000&color=9B1DFF&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita" />
+</p>
+
+
+
+
