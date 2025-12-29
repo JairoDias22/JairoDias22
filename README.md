@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="pikachu.gif" alt="GIF" width="80">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=2000&color=36BCF7&center=true&vCenter=true&width=400&lines=Bem-vindo%F0%9F%91%8B%F0%9F%8F%BB" />
