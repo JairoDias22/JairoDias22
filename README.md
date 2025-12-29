@@ -22,10 +22,10 @@
 
 
 ## 💡 O que eu sei fazer
-- Desenvolvimento de aplicações web com PHP
+- Desenvolver sistemas em PHP com banco de dados MySQL
 - Implementação de CRUD com MySQL
 - Autenticação de usuários
-- Estruturação de projetos web
+- Organizar projetos em estrutura MVC simples (config, templates, scripts)
 - Versionamento de código com Git e GitHub
 
 ---
@@ -33,8 +33,9 @@
 ## 📚 Atualmente aprendendo
 - Padrões de projeto
 - Deploy e hospedagem de aplicações web
-- Java
-- React
+- Java - Sintaxe básica,Programação orientada a objetos (classes, atributos e métodos),Encapsulamento e organização de código
+- React - Fundamentos (componentes, JSX e props)
+- C++ - Sintaxe básica,Estruturas de decisão e repetição,Funções e vetores
 ---
 
 # Contatos
@@ -134,11 +135,6 @@
 
 <br/>
 <br/>
-
----
-
-## 🎯 Objetivo
-Atuar como **estagiário ou desenvolvedor júnior na área de desenvolvimento web**
 
 ---
 ## 🚀 Projetos em Destaque
