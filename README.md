@@ -152,25 +152,13 @@
 </div>
 
 ---
-
 ### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10 px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JairoDias22&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoDias22&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+[![GitHub Streak](https://streak-stats.demolab.com?user=JairoDias22&theme=neon-palenight)](https://git.io/streak-stats)
+  
 <br/>
-<br/>
+
+---
 
 ## 📊 Atividade no GitHub
 
