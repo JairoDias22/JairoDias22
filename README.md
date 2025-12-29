@@ -157,7 +157,7 @@
 ---
 ### 📊 Estatísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JairoDias22&theme=neon-palenight)](https://git.io/streak-stats)
+
 
 [![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JairoDias22&theme=github_dark)](https://github.com/JairoDias22)
 
