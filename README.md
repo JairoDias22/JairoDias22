@@ -24,7 +24,6 @@
 ## 💡 O que eu sei fazer
 - Desenvolver sistemas em PHP com banco de dados MySQL
 - Implementação de CRUD com MySQL
-- Autenticação de usuários
 - Organizar projetos em estrutura MVC simples (config, templates, scripts)
 - Versionamento de código com Git e GitHub
 
