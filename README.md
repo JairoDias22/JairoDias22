@@ -38,10 +38,9 @@
 ---
 
 # Contatos
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jairodias321@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jairo-dias-b80b55319/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/jairo_dias21/)
-
+[![E-mail](https://img.shields.io/badge/-Email-003366?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:jairodias321@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/jairo-dias-b80b55319/)
+[![Instagram](https://img.shields.io/badge/-Instagram-003366?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/jairo_dias21/)
 
 
 ---
