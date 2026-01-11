@@ -9,11 +9,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Jairo%20Dias&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20|%20PHP%20|%20Javascript%20%&descAlignY=55&descSize=18" />
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Evolução-6f42c1?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Área-Análise%20e%20Desenvolvimento%20de%20Sistemas-0d6efd?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Universidade-UEMA-c62828?style=for-the-badge" />
-</p>
 
 ---
 <!-- ===================== SOBRE MIM (MANTIDO) ===================== -->
@@ -27,51 +22,72 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated.gif" />
 
 <!-- ===================== O QUE EU SEI FAZER ===================== -->
-<div align="center">
+## 🧩 Minhas Skills & Estudos
+
+<table width="100%">
+  <tr>
+
+  <!-- ===================== CARD 1 ===================== -->
+  <td width="50%" valign="top"
+    style="
+      background-color:#0b1f3a;
+      border-radius:16px;
+      padding:24px;
+      border:1px solid #1f3b5f;
+    ">
 
 ### 🛠️ O que eu sei fazer
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-Backend-777bb4?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/MySQL-Banco%20de%20Dados-4479a1?style=for-the-badge&logo=mysql" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/CRUD-Create%20Read%20Update%20Delete-2ecc71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MVC-Estrutura%20Simples-3498db?style=for-the-badge" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-Versionamento-f05032?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github" />
 </p>
 
-</div>
+  </td>
 
----
+  <!-- ESPAÇO ENTRE OS CARDS -->
+  <td width="4%"></td>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated.gif" />
-
-<!-- ===================== ATUALMENTE APRENDENDO ===================== -->
-<div align="center">
+  <!-- ===================== CARD 2 ===================== -->
+  <td width="50%" valign="top"
+    style="
+      background-color:#0b1f3a;
+      border-radius:16px;
+      padding:24px;
+      border:1px solid #1f3b5f;
+  ">
 
 ### 📚 Atualmente aprendendo
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-POO%20e%20Sintaxe-007396?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/React-Fundamentos-61dafb?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C++-Lógica%20e%20Estruturas-00599c?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Deploy-Hospedagem%20Web-8e44ad?style=for-the-badge" />
 </p>
 
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Deploy-Hospedagem%20Web-8e44ad?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design%20Patterns-Em%20Estudo-f39c12?style=for-the-badge" />
 </p>
 
-</div>
+  </td>
+
+  </tr>
+</table>
+
 
 ---
 # Contatos
