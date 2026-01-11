@@ -9,34 +9,71 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Jairo%20Dias&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20|%20PHP%20|%20Javascript%20%&descAlignY=55&descSize=18" />
 
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Evolução-6f42c1?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Área-Análise%20e%20Desenvolvimento%20de%20Sistemas-0d6efd?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Universidade-UEMA-c62828?style=for-the-badge" />
+</p>
 
 ---
+<!-- ===================== SOBRE MIM (MANTIDO) ===================== -->
 
 <img align="right" alt="" height="160px" src="Frieren(1).gif">
-
 
 **Me chamo Jairo, tenho 25 anos e sou natural de Bela Vista, no Maranhão. Gosto muito de programação e tecnologia, e estou sempre buscando aprender coisas novas, e pessoalmente tenho interesse em programação web. Já fiz curso técnico em Informática para internet pelo SENAC e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão (UEMA). Estou em constante evolução e sempre procurando novas oportunidades para crescer na área de tecnologia.**
 
 ---
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated.gif" />
 
-## 💡 O que eu sei fazer
-- Desenvolver sistemas em PHP com banco de dados MySQL
-- Implementação de CRUD com MySQL
-- Organizar projetos em estrutura MVC simples (config, templates, scripts)
-- Versionamento de código com Git e GitHub
+<!-- ===================== O QUE EU SEI FAZER ===================== -->
+<div align="center">
+
+### 🛠️ O que eu sei fazer
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-Backend-777bb4?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/MySQL-Banco%20de%20Dados-4479a1?style=for-the-badge&logo=mysql" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/CRUD-Create%20Read%20Update%20Delete-2ecc71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC-Estrutura%20Simples-3498db?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-Versionamento-f05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github" />
+</p>
+
+</div>
 
 ---
 
-## 📚 Atualmente aprendendo
-- Padrões de projeto
-- Deploy e hospedagem de aplicações web
-- Java - Sintaxe básica,Programação orientada a objetos (classes, atributos e métodos),Encapsulamento e organização de código
-- React - Fundamentos (componentes, JSX e props)
-- C++ - Sintaxe básica,Estruturas de decisão e repetição,Funções e vetores
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated.gif" />
 
+<!-- ===================== ATUALMENTE APRENDENDO ===================== -->
+<div align="center">
+
+### 📚 Atualmente aprendendo
+
+<p>
+  <img src="https://img.shields.io/badge/Java-POO%20e%20Sintaxe-007396?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/React-Fundamentos-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/C++-Lógica%20e%20Estruturas-00599c?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Deploy-Hospedagem%20Web-8e44ad?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Design%20Patterns-Em%20Estudo-f39c12?style=for-the-badge" />
+</p>
+
+</div>
+
+---
 # Contatos
 [![E-mail](https://img.shields.io/badge/-Email-003366?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:jairodias321@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/jairo-dias-b80b55319/)
@@ -46,93 +83,11 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
+<br>
 
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
- <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
- <img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-
-<img   
-    align="left" 
-    alt="MYSQL" 
-    title="MYSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-
-<br/>
-<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,php,javascript,python,cpp,java,git,github,bootstrap,mysql" />
+</p>
 
 ---
 ## 🚀 Projetos em Destaque
@@ -171,31 +126,20 @@
 </div>
 
 ---
-### 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
+[![Stats](https://github-readme-stats-fast.vercel.app/api?username=JairoDias22&show_icons=true&theme=dark)](https://github.com/JairoDias22)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JairoDias22&layout=compact&theme=dark)](https://github.com/JairoDias22)
 
-
-[![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JairoDias22&theme=github_dark)](https://github.com/JairoDias22)
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JairoDias22&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JairoDias22&theme=dark" />
-    </td>
-  </tr>
-</table>
-
-  
 <br/>
 
 ---
 
 ## 📊 Atividade no GitHub
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JairoDias22&bg_color=282a36&color=f8f8f2&line=bd93f9&point=bd93f9&area=true&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JairoDias22&theme=github-dark&hide_border=true" />
+</p>
 
 
 <picture align="center">
@@ -210,6 +154,9 @@
 <div align="center">
 
 ### 🚀 Sempre aberto a aprender, colaborar e encarar novos desafios.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 </div>
 
