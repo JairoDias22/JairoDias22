@@ -147,9 +147,21 @@
 ---
 ## 📊 Estatísticas do GitHub
 
-[![Stats](https://github-readme-stats-fast.vercel.app/api?username=JairoDias22&show_icons=true&theme=dark)](https://github.com/JairoDias22)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JairoDias22&layout=compact&theme=dark)](https://github.com/JairoDias22)
+[![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JairoDias22&theme=github_dark)](https://github.com/JairoDias22)
 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JairoDias22&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JairoDias22&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+  
 <br/>
 
 ---
