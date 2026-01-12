@@ -35,9 +35,9 @@
       padding:24px;
       border:1px solid #1f3b5f;
     ">
-
-### 🛠️ O que eu sei fazer
-
+<h2 align="center">
+🛠️ O que eu sei fazer
+</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-Backend-777bb4?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/MySQL-Banco%20de%20Dados-4479a1?style=for-the-badge&logo=mysql" />
@@ -66,11 +66,14 @@
       padding:24px;
       border:1px solid #1f3b5f;
   ">
-
-### 📚 Atualmente aprendendo
-
+<h2 align="center">
+📚 Atualmente aprendendo
+</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-POO%20e%20Sintaxe-007396?style=for-the-badge&logo=java" />
+  </p>
+  
+  <p align="center">
   <img src="https://img.shields.io/badge/React-Fundamentos-61dafb?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
@@ -80,7 +83,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Deploy-Hospedagem%20Web-8e44ad?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design%20Patterns-Em%20Estudo-f39c12?style=for-the-badge" />
 </p>
 
   </td>
@@ -98,7 +100,8 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
+
 <br>
 
 <p align="left">
