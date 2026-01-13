@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="pikachu.gif" alt="GIF" width="80">
 </p>
@@ -11,11 +12,20 @@
 
 
 ---
-<!-- ===================== SOBRE MIM (MANTIDO) ===================== -->
+<!-- ===================== SOBRE MIM ===================== -->
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px; width: 70%;">
+    <p>
+     Me chamo Jairo, tenho 25 anos e sou natural de Bela Vista, no Maranhão. Gosto muito de programação e tecnologia, e estou sempre buscando aprender coisas novas,        e pessoalmente tenho interesse em programação web. Já fiz curso técnico em Informática para internet pelo SENAC e atualmente curso Análise e Desenvolvimento de        Sistemas na Universidade Estadual do Maranhão (UEMA). Estou em constante evolução e sempre procurando novas oportunidades para crescer na área de tecnologia.
+    </p>
+  </td>
 
-<img align="right" alt="" height="160px" src="Frieren(1).gif">
-
-**Me chamo Jairo, tenho 25 anos e sou natural de Bela Vista, no Maranhão. Gosto muito de programação e tecnologia, e estou sempre buscando aprender coisas novas, e pessoalmente tenho interesse em programação web. Já fiz curso técnico em Informática para internet pelo SENAC e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão (UEMA). Estou em constante evolução e sempre procurando novas oportunidades para crescer na área de tecnologia.**
+  <td style="vertical-align: top; width: 30%;">
+     <img src="Frieren(1).gif" width="360px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -23,7 +33,7 @@
 <!-- ===================== O QUE EU SEI FAZER ===================== -->
 ## 🧩 Minhas Skills & Estudos
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
 
   <!-- ===================== CARD 1 ===================== -->
@@ -89,7 +99,7 @@
   </tr>
 </table>
 
-
+  <!-- CONTATOS -->
 ---
 # Contatos
 [![E-mail](https://img.shields.io/badge/-Email-003366?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:jairodias321@gmail.com)
@@ -98,7 +108,7 @@
 
 
 ---
-
+  <!-- LINGUAGENS DE PROGRMAÇÃO -->
 ## 🤖 Linguagens e Tecnologias
 
 <br>
@@ -107,6 +117,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,php,javascript,python,cpp,java,git,github,bootstrap,mysql" />
 </p>
 
+  <!-- PROJETOS -->
 ---
 ## 🚀 Projetos em Destaque
 
@@ -143,6 +154,7 @@
   </table>
 </div>
 
+  <!-- ESTATISTICAS -->
 ---
 ## 📊 Estatísticas do GitHub
 
@@ -180,7 +192,7 @@
 
 
 ---
-
+  <!-- FINAL -->
 <div align="center">
 
 ### 🚀 Sempre aberto a aprender, colaborar e encarar novos desafios.
