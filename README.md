@@ -186,7 +186,7 @@
 
 ### 🚀 Sempre aberto a aprender, colaborar e encarar novos desafios.
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 </div>
@@ -197,7 +197,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=2000&color=9B1DFF&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 
 
 
