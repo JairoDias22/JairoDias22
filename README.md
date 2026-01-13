@@ -19,7 +19,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated.gif" />
 
 <!-- ===================== O QUE EU SEI FAZER ===================== -->
 ## 🧩 Minhas Skills & Estudos
