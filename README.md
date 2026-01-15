@@ -22,7 +22,7 @@
   </td>
 
   <td style="vertical-align: top; width: 30%;">
-     <img src="Frieren(1).gif" width="360px" />
+     <img src="Frieren(1).gif" width="280px" />
     </td>
   </tr>
 </table>
