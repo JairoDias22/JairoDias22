@@ -10,6 +10,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Jairo%20Dias&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20|%20PHP%20|%20Javascript%20%&descAlignY=55&descSize=18" />
 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php,javascript,python,cpp,java,git,github,bootstrap,mysql" />
+</p>
 
 ---
 <!-- ===================== SOBRE MIM ===================== -->
@@ -106,16 +109,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/jairo-dias-b80b55319/)
 [![Instagram](https://img.shields.io/badge/-Instagram-003366?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/jairo_dias21/)
 
-
----
-  <!-- LINGUAGENS DE PROGRMAÇÃO -->
-## 🤖 Linguagens e Tecnologias
-
-<br>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,javascript,python,cpp,java,git,github,bootstrap,mysql" />
-</p>
 
   <!-- PROJETOS -->
 ---
