@@ -9,9 +9,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Jairo%20Dias&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20|%20PHP%20|%20Javascript%20%&descAlignY=55&descSize=18" />
 
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,javascript,python,cpp,java,git,github,bootstrap,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,javascript,python,cpp,java,git,github,bootstrap,mysql" width="500" />
 </p>
 
 ---
