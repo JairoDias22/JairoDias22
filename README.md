@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=2000&color=36BCF7&center=true&vCenter=true&width=400&lines=Bem-vindos%F0%9F%91%8B%F0%9F%8F%BB" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Jairo%20Dias&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20|%20PHP%20|%20Javascript%20%&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Jairo%20Dias&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20TI%20|%20Desenvolvimento%20Web%20&descAlignY=55&descSize=18" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,php,javascript,python,cpp,java,git,github,bootstrap,mysql" width="500" />
