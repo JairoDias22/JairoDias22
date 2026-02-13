@@ -151,10 +151,14 @@
 ---
 ## 📊 Estatísticas do GitHub
 
-[![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JairoDias22&theme=github_dark)](https://github.com/JairoDias22)
+<p align="center">
+  <a href="https://github.com/JairoDias22">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JairoDias22&theme=github_dark" />
+  </a>
+</p>
 
 
-<table>
+<table align="center" >
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JairoDias22&theme=dark" />
