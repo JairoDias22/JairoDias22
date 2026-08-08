@@ -118,16 +118,16 @@
   <table>
     <tr>
       <td align="center" width="300px">
-        <a href="https://github.com/JairoDias22/Projeto-agenda">
-          <img src="https://img.shields.io/badge/-Projeto%20Agenda-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7"/>
+        <a href="https://github.com/JairoDias22/file-organizer">
+          <img src="https://img.shields.io/badge/-File%20Organizer-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7"/>
           </a>
           <br>
-          <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/Projeto-agenda-php.gif" width="260" height="130" />
-          <a href="https://github.com/JairoDias22/Projeto-agenda">
+          <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/file-organizer(1).gif" width="260" height="130" />
+          <a href="https://github.com/JairoDias22/file-organizer">
          <p> Clique aqui para ir pro repositório </p>
-          <strong>📒 Agenda Eletrônica</strong>
+          <strong>File Organizer</strong>
           <br>
-          <sub> PHP • HTML • CSS • MySQL </sub>
+          <sub> Python 3 • Tkinter • shutil </sub>
         </a>
       </td>
 
