@@ -125,7 +125,7 @@
           <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/file-organizer(1).gif" width="260" height="130" />
           <a href="https://github.com/JairoDias22/file-organizer">
          <p> Clique aqui para ir pro repositório </p>
-          <strong>File Organizer</strong>
+          <strong>🗂️ File Organizer</strong>
           <br>
           <sub> Python 3 • Tkinter • shutil </sub>
         </a>
