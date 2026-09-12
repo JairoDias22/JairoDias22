@@ -14,20 +14,15 @@
 </p>
 
 ---
-<!-- ===================== SOBRE MIM ===================== -->
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px; width: 70%;">
-    
-  **Me chamo Jairo, tenho 25 anos e sou natural de Bela Vista, no Maranhão. Gosto muito de programação e tecnologia, e estou sempre buscando aprender coisas novas, e pessoalmente tenho interesse em programação web. Já fiz curso técnico em Informática para internet pelo SENAC e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão (UEMA). Estou em constante evolução e sempre procurando novas oportunidades para crescer na área de tecnologia.**
-    
-  </td>
+<!-- ===================== SOBRE MIM ===================== --> 
 
-  <td style="vertical-align: top; width: 30%;">
-     <img src="Frieren(1).gif" width="280px" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+**Me chamo Jairo, tenho 25 anos e sou natural de Bela Vista, no Maranhão. Gosto muito de programação e tecnologia, e estou sempre buscando aprender coisas novas, e pessoalmente tenho interesse em programação web. Já fiz curso técnico em Informática para internet pelo SENAC e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão (UEMA). Estou em constante evolução e sempre procurando novas oportunidades para crescer na área de tecnologia.**
+
+<img src="Frieren(1).gif" width="280px" />
+
+</div>
 
 ---
 
