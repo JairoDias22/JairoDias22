@@ -10,7 +10,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Jairo%20Dias&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20TI%20|%20Desenvolvimento%20Web%20&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,javascript,python,cpp,java,git,github,bootstrap,mysql" width="500" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,javascript,python,git,github,bootstrap,mysql" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭_Buscando-Estágio%20em%20TI-2ecc71?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="#-minhas-skills--estudos">Skills</a> •
+  <a href="#-experiência">Experiência</a> •
+  <a href="#-projetos-em-destaque">Projetos</a> •
+  <a href="#-estatísticas-do-github">Estatísticas</a> •
+  <a href="#contatos">Contatos</a>
 </p>
 
 ---
@@ -18,9 +30,23 @@
 
 <div align="center">
 
-**Me chamo Jairo, tenho 25 anos e sou natural de Bela Vista, no Maranhão. Gosto muito de programação e tecnologia, e estou sempre buscando aprender coisas novas, e pessoalmente tenho interesse em programação web. Já fiz curso técnico em Informática para internet pelo SENAC e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão (UEMA). Estou em constante evolução e sempre procurando novas oportunidades para crescer na área de tecnologia.**
+**Me chamo Jairo, tenho 25 anos e sou natural de Bela Vista, no Maranhão. Gosto muito de programação e tecnologia, e estou sempre buscando aprender coisas novas, e pessoalmente tenho interesse em programação web. Já fiz curso técnico em Informática para internet pelo SENAC e atualmente estou no último período de Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão (UEMA). Já atuei como auxiliar de laboratório de informática na UFMA e fui aprovado recentemente na Bolsa Trilhas do Governo do Maranhão. Estou em constante evolução e buscando ativamente uma oportunidade de estágio na área de TI.**
 
 <img src="Frieren(1).gif" width="280px" />
+
+</div>
+
+---
+
+<!-- ===================== EXPERIÊNCIA ===================== -->
+## 💼 Experiência
+
+<div align="center">
+
+| Período | Onde | O que fiz |
+|---|---|---|
+|2022 a 2023 | Laboratório de Informática — UFMA | Auxiliar de laboratório de informática |
+| Atual | Governo do Maranhão | Bolsista do Programa Trilhas |
 
 </div>
 
