@@ -127,6 +127,34 @@
       </td>
 
   <td align="center" width="300px">
+        <a href="https://github.com/JairoDias22/Feira-local">
+          <img src="https://img.shields.io/badge/-FeiraLocal-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7"/>
+          </a>
+          <br>
+          <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/feira-local-demonstracao.gif" width="260" height="130" />
+          <a href="https://github.com/JairoDias22/Feira-local">
+         <p> Clique aqui para ir pro repositório </p>
+          <strong>🥬 FeiraLocal</strong>
+          <br>
+          <sub> React 18 • Vite • React Router DOM • Context API • Fetch API • CSS3</sub>
+        </a>
+      </td>
+
+  <td align="center" width="300px">
+        <a href="https://github.com/JairoDias22/stella-celeste">
+          <img src="https://img.shields.io/badge/-Stella%20Celeste-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7"/>
+          </a>
+          <br>
+          <img  src="https://raw.githubusercontent.com/JairoDias22/JairoDias22/main/stella-celeste-demonstracao.gif" width="260" height="130" />
+          <a href="https://github.com/JairoDias22/stella-celeste">
+         <p> Clique aqui para ir pro repositório </p>
+          <strong>🌙 Stella Celeste</strong>
+          <br>
+          <sub> Next.js 16 • TypeScript • Tailwind CSS v4 • Prisma 7 • Postgres/Neon • Resend • Mercado Pago</sub>
+        </a>
+      </td>
+
+  <td align="center" width="300px">
         <a href="https://github.com/JairoDias22/Projeto_Blog">
           <img src="https://img.shields.io/badge/-Mini%20Blog-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7"/>
           <br>
